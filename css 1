@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.game-container {
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff3366;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ff6600;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  width: 200px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#result {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: green;
+}
