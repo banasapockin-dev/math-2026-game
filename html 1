@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Математики</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Великие математики</h1>
+    </header>
+    <div class="mathematician">
+      <h2>Пифагор</h2>
+      <img src="pythagoras.jpg" alt="Пифагор">
+      <p>Пифагор был древнегреческим философом и математиком, наиболее известным своей теоремой...</p>
+    </div>
+    <div class="mathematician">
+      <h2>Эйлер</h2>
+      <img src="euler.jpg" alt="Эйлер">
+      <p>Леонард Эйлер был одним из величайших математиков XVIII века, сделавшим огромный вклад в различные области...</p>
+    </div>
+  </div>
+</body>
+</html>
