@@ -1,0 +1,10 @@
+.mathematician {
+  margin-bottom: 30px;
+}
+
+.mathematician img {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
